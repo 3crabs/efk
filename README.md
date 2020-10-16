@@ -9,6 +9,10 @@ sudo docker-compose up
 
 Kibana - http://localhost:5601
 
+Login - elastic
+
+Password - changeme
+
 
 ### Запускать любые docker контейнеры
 
