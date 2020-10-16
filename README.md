@@ -18,7 +18,7 @@ logstash-*
 
 ### Запускать любые docker контейнеры
 ```
-docker run --log-driver=fluentd tag="docker.{CHANGE_NAME}" ...
+docker run --log-driver=fluentd --log-opt tag="docker.{CHANGE_NAME}" ...
 ```
 
 ### Успехов!
