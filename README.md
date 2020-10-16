@@ -14,7 +14,7 @@ Login - elastic
 Password - changeme
 
 ### Создать индекс
-
+logstash-*
 
 ### Запускать любые docker контейнеры
 ```
