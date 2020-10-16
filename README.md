@@ -13,9 +13,10 @@ Login - elastic
 
 Password - changeme
 
+### Создать индекс
+
 
 ### Запускать любые docker контейнеры
-
 ```
 docker run --log-driver=fluentd ...
 ```
